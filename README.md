@@ -17,6 +17,8 @@ This is my personal developer portfolio built with [Next.js](https://nextjs.org/
 
 ## 📁 Project Structure
 
+``` md
+
 src/
 ├── app/ # App Router structure (pages and layouts)
 │ ├── layout.tsx # Root layout (header/footer etc.)
@@ -43,7 +45,7 @@ src/
 │
 └── config/ # Global config (site metadata, constants, SEO)
 
-
+```
 ---
 
 ## 🚀 Getting Started
